@@ -1,0 +1,29 @@
+From the far side on top:
+blue
+blue stripe
+brown
+brown stripe
+orange
+orange stripe
+green
+
+From the bottom on the side:
+brown
+brown stripe
+blue
+blue stripe
+orange
+orange stripe
+
+LCD:
+1-brown
+2-brown stripe
+3-big orange
+4-blue
+5-NC
+6-blue stripe
+7-green
+8-green stripe
+9-orange stripe
+10-orange
+  
